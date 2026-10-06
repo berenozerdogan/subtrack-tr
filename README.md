@@ -20,7 +20,7 @@ Turkiye'deki populer dijital aboneliklerin (dizi, film, muzik, depolama, yapay z
 
 ---
 
-## Teknoloji Yigini
+## Teknoloji 
 
 - **Backend:** Python 3, FastAPI, Uvicorn, SQLite3, Pydantic
 - **Frontend:** HTML5, Tailwind CSS, JavaScript (Fetch API), Chart.js, FontAwesome
